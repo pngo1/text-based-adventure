@@ -1,0 +1,17 @@
+WALKTHROUGH
+
+The game is a modern adventure in a Swift Land Theme Park. 
+Each area of the park is named after an album by Taylor Swift and the trivia quizz is about details related to Taylor Swift's music.
+The position of the player at the beginning of the game is in the middle, which is called "Holy Ground".
+
+To move or enter or exit a zone, you enter command "go + directions available". To rest, command "rest". To quit, command "quit".
+
+To answer a trivia, you enter command "answer + the answer that you think may be correct".
+
+To get hints, you enter command "hint". The more hints you ask for, the higher chance is that you may lose the game. 
+
+There are six items available in different zones: scarf, keychain, paper ring, flower, cardigan, flannel shirt. You can only collect them after answering the trivia correctly. You enter command "collect + the item you want".
+
+You can discover the meaning of these items by entering the command "unbox + the item you have and want to see".
+
+To win, you need to reach the "Home" zone with at least 2 items and take fewer than 12 turns. 
